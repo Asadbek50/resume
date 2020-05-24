@@ -1,0 +1,41 @@
+body{
+    background-color: #AEF5;
+}
+p{
+    font-size: 22px;
+text-decoration-color: black;
+}
+img{
+    width: 150px;
+    height: 175px;
+    border-radius: 90px;
+}
+h1,h2,h3 {
+    color: #66BFBF;
+}
+
+hr{
+    width: 5%;
+    border-width: 5px;
+    border-style: none;
+    border-color: grey;
+    border-top-style: dotted;
+}
+a {
+    transition: 0.5s;
+    color: #4c6c88;
+   
+    text text-decoration: none;
+}
+a: hover {
+    color: blue;
+    font-size: 29px;
+}
+.btn{
+    background-color: teal;
+    
+}
+
+i{
+    color: red;
+}
